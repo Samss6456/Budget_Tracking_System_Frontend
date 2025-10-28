@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.10.0",
     "axios-mock-adapter": "^2.1.0",
-    "canvas": "^2.11.2",
     "date-fns": "^4.1.0",
     "fs": "0.0.1-security",
     "jest-fetch-mock": "^3.0.3",
